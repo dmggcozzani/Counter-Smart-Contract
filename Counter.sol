@@ -37,5 +37,4 @@ pragma solidity ^0.8.0;
         name = _newName;
         return name;
     }
-
-}
+    }
